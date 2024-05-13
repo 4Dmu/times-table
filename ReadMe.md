@@ -2,6 +2,12 @@
 
 A simple golang project to print out a times table of the desired size
 
+## Cli
+
+Simply run the compiled binary with a number
+
+for example: `times-table.exe 15`
+
 ## Example 18 x 18
 
 ```
